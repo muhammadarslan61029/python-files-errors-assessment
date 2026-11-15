@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="banner" width="100%"></p>
+<p align="center"><img src="banner.svg" alt="banner" width="100%"></p>
 
 # Attendance List Cleaner
 
@@ -8,7 +8,7 @@
 |------|------|-------|
 | 1 | `attendance_cleaner.py` | File handling and error handling: read a name list, clean it, remove duplicates, save to CSV |
 
-<p align="center"><img src="assets/overview.svg" alt="overview" width="100%"></p>
+<p align="center"><img src="overview.svg" alt="overview" width="100%"></p>
 
 ## 2. Folder Structure
 
@@ -41,7 +41,7 @@ python-files-errors-assessment/
 
 **Program Flow**
 
-<p align="center"><img src="assets/attendance_flow.svg" alt="Task 1 flow chart" width="70%"></p>
+<p align="center"><img src="attendance_flow.svg" alt="Task 1 flow chart" width="70%"></p>
 
 **Code Methods Description**
 
@@ -74,7 +74,7 @@ python-files-errors-assessment/
 
 A module diagram was chosen because the code is procedural (no classes): it shows the constants, the functions, who calls whom, and the files and library they touch.
 
-<p align="center"><img src="assets/uml_diagram.svg" alt="UML module diagram" width="100%"></p>
+<p align="center"><img src="uml_diagram.svg" alt="UML module diagram" width="100%"></p>
 
 ## 5. Concepts and Techniques Used
 
